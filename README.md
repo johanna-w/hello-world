@@ -1,2 +1,2 @@
 # hello-world
-A place for ideas ans resources!
+A place for ideas and resources!
